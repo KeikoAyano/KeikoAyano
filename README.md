@@ -89,32 +89,38 @@ I am a Computer Scientist/Data Scientist familiar with Mobile app/GUI building a
 <table>
   <tr>
     <h4>Neural Network from Scratch</h4>
-    <p style="font-style: italic;">Spring 2025</p>
+    <p><i>Spring 2025</i></p>
     <p>Build the Neural Network for time series analysis of flight data. The code repo is in <a href="https://github.com/KeikoAyano/TINN-FNN">UND DATA SCIENCE Predictive Modeling Final Project</a>. The dataset is not available.</p>
   </tr>
   
   <tr>
     <h4>MALIMG Detection</h4>
-    <p style="font-style: italic;">Summer 2025</p>
+    <p><i>Summer 2025</i></p>
     <p>Using Vision transfromer for the classification of malimag dataset</p>
   </tr>
 
   <tr>
     <h4>Artificial Intelligence && Reinforcement learning</h4>
-    <p style="font-style: italic;">Fall 2025</p>
+    <p><i>Fall 2025</i></p>
     <p>Implement of search algorithm such as DFS/BFS for maze problem. And carpole Reinforcement learning final project. The code is in <a href="https://github.com/KeikoAyano/DATA530ArtificialIntelligence">UND DATA SCIENCE Artificial Intelligence Final Project</a> and the <a href="https://youtu.be/m88zizcgwl8?si=6fyd2CoQpKYOMqdE">video demo</a>.
 </a></p>
   </tr>
 
   <tr>
     <h4>Simple search engine build</h4>
-    <p style="font-style: italic;">Fall 2026</p>
+    <p><i>Fall 2025</i></p>
     <p>Build a simple search engine for UND data engineering course. The core code is availble in <a href="https://github.com/KeikoAyano/HTML-METADATA-Crawler-Parser">Data Engineering</a></p>
   </tr>
 
   <tr>
+    <h4>Build LLM from scratch</h4>
+    <p><i>Spring 2026</i></p>
+    <p>Build LLM from scratch in TensorFlow in the guide of <a href="https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167">book</a>. The code is in the <a href="https://github.com/KeikoAyano/LLMFromScratch">repo</a></p>
+  </tr>
+
+  <tr>
     <h4>Gender Disparity Analysis</h4>
-    <p style="font-style: italic;">Summer 2026</p>
+    <p><i>Summer 2026</i></p>
     <p>Analysis toward the gender disparity in computer science field. The code is not public currently.</p>
   </tr>
 </table>
