@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sichengzhong/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width = 24/>
   </a>
   <a href="https://sichengzhong.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
@@ -43,44 +43,44 @@ I am a Computer Scientist/Data Scientist familiar with Mobile app/GUI building a
 
 **Languages**
 
-![Rust](https://img.shields.io/badge/Rust-66FFFF?style=flat-square&logo=rust&logoColor=6F0303)
-![C#](https://img.shields.io/badge/Csharp-66FFFF?style=flat-square&logo=dotnet&logoColor=0000FF)
-![Python](https://img.shields.io/badge/Python-66FFFF?style=flat-square&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-66FFFF?style=flat-square&logo=ruby&logoColor=CE0000)
-![SQL](https://img.shields.io/badge/SQL-66FFFF?style=flat-square&logo=postgresql&logoColor=FFFF00)
+![Rust](https://img.shields.io/badge/Rust-FFFFFF?style=plastic&logo=rust&logoColor=6F0303)
+![C#](https://img.shields.io/badge/Csharp-FFFFFF?style=plastic&logo=dotnet&logoColor=0000FF)
+![Python](https://img.shields.io/badge/Python-000000?style=plastic&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-000000?style=plastic&logo=ruby&logoColor=CE0000)
+![SQL](https://img.shields.io/badge/SQL-000000?style=plastic&logo=postgresql&logoColor=FFFF00)
 
 **ML / DL Frameworks**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Jax](https://img.shields.io/badge/Jax-CC00CC?style=flat-square&logoColor=CC00CC)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![Jax](https://img.shields.io/badge/Jax-CC00CC?style=plastic&logoColor=CC00CC)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 
 **Data & Visualization**
 
-![Polars](https://img.shields.io/badge/Polars-150458?style=flat-square&logo=Polars&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-150458?style=plastic&logo=Polars&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=plastic&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=plastic&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-4EA94B?style=flat-square&logo=Redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-4EA94B?style=plastic&logo=Redis&logoColor=white)
 
 **Cloud & Big Data**
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-232F3E?style=flat-square&logo=googlecloud&logoColor=white)
-![Tecent Cloud](https://img.shields.io/badge/Tecent%20Cloud-4285F4?style=flat-square&logo=cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-232F3E?style=plastic&logo=googlecloud&logoColor=white)
+![Tecent Cloud](https://img.shields.io/badge/Tecent%20Cloud-4285F4?style=plastic&logo=cloud&logoColor=white)
 
 **Tools**
 
-![Colab](https://img.shields.io/badge/Colab-F37626?style=flat-square&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat-square&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F37626?style=plastic&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=plastic&logoColor=white)
 
 ---
 
@@ -144,7 +144,7 @@ I am a Computer Scientist/Data Scientist familiar with Mobile app/GUI building a
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sichengzhong/">
-    <img src="https://img.shields.io/badge/linkedin-3399FF?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width = 24/>
   </a>
 </p>
 
