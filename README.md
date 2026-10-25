@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/sichengzhong/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://sichengzhong.github.io/">
@@ -141,6 +141,12 @@ I am a Computer Scientist/Data Scientist familiar with Mobile app/GUI building a
 
 
 ## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sichengzhong/">
+    <img src="https://img.shields.io/badge/linkedin-3399FF?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.facebook.com/KeikoAyano.shirika/">
