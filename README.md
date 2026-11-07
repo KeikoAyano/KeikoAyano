@@ -54,6 +54,7 @@ I am a Computer Scientist/Data Scientist familiar with Mobile app/GUI building a
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
 ![Jax](https://img.shields.io/badge/Jax-CC00CC?style=plastic&logoColor=CC00CC)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![Burn](https://img.shields.io/badge/burn-CC00CC?style=plastic&logoColor=CC00CC)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 
 **Data & Visualization**
