@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sichengzhong/">
-    <img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width = 24/>
+    <img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width = 28/>
   </a>
   <a href="https://sichengzhong.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <a href="mailto:sicheng.zhong@und.edu">
+  <a href="mailto:sichengzhong.chn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -128,6 +128,7 @@ I am a Computer Scientist/Data Scientist familiar with Mobile app/GUI building a
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -139,13 +140,13 @@ I am a Computer Scientist/Data Scientist familiar with Mobile app/GUI building a
 </p>
 
 ---
-
+-->
 
 ## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sichengzhong/">
-    <img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width = 24/>
+    <img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width = 28/>
   </a>
 </p>
 
