@@ -158,13 +158,13 @@ I am a Computer Scientist/Data Scientist familiar with Mobile app/GUI building a
   &nbsp;
   
   <a href="https://qm.qq.com/q/75xTt3OC4w">
-    <span>QQ</span>
+    <img src="./resources/QQ.png"/>
   </a>
   &nbsp;
   &nbsp;
 
   <a href="https://u.wechat.com/MLFu7q4Ac--gyCqZAdoflEM?s=4">
-    <span>WeChat</span>
+    <img src="./resources/WeChat.png" />
   </a>
   &nbsp;
   &nbsp;
