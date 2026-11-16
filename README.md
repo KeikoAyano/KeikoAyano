@@ -158,18 +158,18 @@ I am a Computer Scientist/Data Scientist familiar with Mobile app/GUI building a
   &nbsp;
   
   <a href="https://qm.qq.com/q/75xTt3OC4w">
-    <img src="./resources/QQ.png"/>
+    <img src="./resources/QQ.png" width = 44/>
   </a>
   &nbsp;
   &nbsp;
 
   <a href="https://u.wechat.com/MLFu7q4Ac--gyCqZAdoflEM?s=4">
-    <img src="./resources/WeChat.png" />
+    <img src="./resources/WeChat.png" width = 86 />
   </a>
   &nbsp;
   &nbsp;
   
-  <a href="mailto:sicheng.zhong@und.edu">
-    <img src="https://img.shields.io/badge/Email-sicheng.zhong@und.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:sichengzhong.chn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sichengzhong.chn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
