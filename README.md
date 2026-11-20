@@ -128,19 +128,17 @@ I am a Computer Scientist/Data Scientist familiar with Mobile app/GUI building a
 
 ---
 
-<!--
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeikoAyano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeikoAyano&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
+  <img src = "https://ghstats.dev/api/card?username=KeikoAyano&border_radius=50" alt="GitHub Stats Card" />
+  <br><br><br><br>
+  <img src="https://ghstats.dev/api/langs?username=KeikoAyano&max_langs=12&layout=grid" alt="Top Languages" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeikoAyano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
+  
 </p>
 
 ---
--->
 
 ## 🤝 Connect with Me
 
